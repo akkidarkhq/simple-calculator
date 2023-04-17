@@ -1,0 +1,63 @@
+
+button{
+  height: 50px;
+  width: 50px; 
+  font-family: 'Orbitron', sans-serif;
+}
+
+
+
+.btn{
+  border-radius: 0%;
+}
+.innerdiv{
+  padding-top: 15px;
+  border: 1px;
+  border-color: black;
+}
+
+.container{
+  margin-top: 5%;
+  width: 230px;
+  height: 350px;
+  background-color:rgb(19,29,38);
+  display: flex;
+}
+
+.equalto{
+height: 102px;
+}
+.equalto:hover{
+  color: black;
+}
+
+.btn-prim{
+  background-color: rgb(251,188,4);
+}
+
+.btn-prim:hover{
+  color: aliceblue;
+}
+
+.secondarybtn{
+  background-color: rgb(0,93,178);
+  color: aliceblue;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input{
+  font-size: 20px;
+  font-family: 'Orbitron', sans-serif;
+  border-bottom-left-radius: 0px ;
+  border-bottom-right-radius: 0px ;
+  height: 60px;
+}
+
+
+td{
+width: 100px;
+}
